@@ -7,6 +7,8 @@ namespace BD_proj
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!ffffffggggg");
+            int t = 9;
+            
         }
     }
 }
